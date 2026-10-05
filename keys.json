@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "ANIS": 9999
+  },
+  "ADMIN_KEYS": [
+    "XENON_ANIS"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
